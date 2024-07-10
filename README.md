@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://vijaykumar23112000.github.io/portfolio/](https://vijaykumar23112000.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://my-portfolio-vj-23112000.vercel.app/)
 
 - 💬 Ask me about **Core Java , Spring Boot , Backend Development**
 
