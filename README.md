@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Core Java , Spring Boot , Backend Development**
 
-- 📫 How to reach me **mathew5359302@gmail.com**
+- 📫 How to reach me **23jvijay@gmail.com**
 
 
 
